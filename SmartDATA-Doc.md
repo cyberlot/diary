@@ -3,11 +3,12 @@
 # R&D Documents Frammework
 -----------------
 
-|名称|牵头人|
+|鍚嶇О|鐗靛ご浜簗
 |---|---|
-| SmartDATA portal Document Framework|张展|
-| SmartDATA DeviceCloud Document Framework|刘愿|
-| SmartDATA Device&APP Document Framework|旷淇元|
+| SmartDATA portal Document Framework|寮犲睍|
+|  - ![SmartDATA API Doc](http://code.iotplat.net/shebeiyun/apidoc/blob/master/list.md)
+| SmartDATA DeviceCloud Document Framework|鍒樻効|
+| SmartDATA Device&APP Document Framework|鏃锋穱鍏億
 
 
 # Market&Sales Documents Framework
