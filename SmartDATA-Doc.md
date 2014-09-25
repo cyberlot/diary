@@ -13,21 +13,21 @@
 ### SmartDATA DeviceCloud Document Framework
 |文档名称链接|文档发起人|
 |---|---|
-|doc name| ***|
+|[doc name](link) | ***|
 
 ### SmartDATA Device&APP Document Framework
 |文档名称链接|文档发起人|
 |---|---|
-|doc name |***|
+|[doc name](link) |***|
 
 # Market&Sales Documents Framework
 
 |文档名链接|文档发起人|
 |---|---|
-|doc name |***|
+|[doc name](link) |***|
 
 # Operation&Support Document Framework
 
 |文档名称|文档发起人|
 |---|---|
-|doc name |***|
+|[doc name](link) |***|
