@@ -5,9 +5,9 @@
 
 ### SmartDATA portal Document Framework
 
-|名称|牵头人|
+|文档名称|文档发起人|
 |---|---|
-|  - [SmartDATA API Doc](http://code.iotplat.net/shebeiyun/apidoc/blob/master/list.md)||
+|  - [SmartDATA API Doc](http://code.iotplat.net/shebeiyun/apidoc/blob/master/list.md)|张展|
 
 
 ### SmartDATA DeviceCloud Document Framework
